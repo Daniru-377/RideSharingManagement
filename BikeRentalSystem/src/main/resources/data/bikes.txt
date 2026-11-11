@@ -1,0 +1,2 @@
+B001|Honda Hornet|Motorbike|Knady|800.0|true|Active
+B002|jade|Motorbike|colombo|600.0|true|Active

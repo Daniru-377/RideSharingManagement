@@ -1,0 +1,5 @@
+U001|Pasindu Egodawela|egodawelapasindu@gmail.com|p12345|071234567|nkrefnenfrkjnkj|Admin
+U002|customer1|customer1@gmail.com|c1@12345|071123456|bhjjjbj|Customer
+U003|Driver1|driver1@gmail.com|d1@12345|07123456|njkjankjkn|Driver
+U004|Driver2|driver2@gmail.com|d2@12345|07123456|jiowjoiajsdiouqw|Driver
+U005|customer2|customer2@gmail.com|c2@12345|07123456|hiodqwjoo|Customer
